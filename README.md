@@ -1,5 +1,6 @@
 # Wildhacks2024
 Northwestern's 2024 Wildhacks Best Technology Award.
+
 Inspiration:
 
 Music plays a vital role in our lives, having the power to influence emotions and mental states. Understanding this, we created MoodGenie, an iOS app that empowers you to be in tune with your mood and discover your "music personas".
@@ -35,7 +36,7 @@ What's next:
 
 Adding more functionality including the ability to share your listening playlists and moods with friends
 
-Built With
+Built With:
 
 adobe-illustrator
 flask
